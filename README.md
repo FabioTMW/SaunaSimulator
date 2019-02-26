@@ -27,6 +27,5 @@ Each person can try to enter the sauna 3 times, after that the request is discar
 ### Logs
 
 * logs are stored at /tmp folder
-* sauna writes to bal.<sauna pid>
-* gerador writes to ger.<gerador pid>
-
+* sauna writes to bal.\<sauna pid\>
+* gerador writes to ger.\<gerador pid\>
