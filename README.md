@@ -1,5 +1,5 @@
 # Sauna Simulator
-Multi process and shared resources simulation of a sauna. Similar to the producer-consumer problem and makes use of threads, shared memory, mutexes and fifos.
+Multi process and shared resources simulation of a sauna. Similar to the producer-consumer problem and makes use of fifos, threads, shared memory, mutexes and condition variables.
 
 This program simulates a sauna usage by allowing people to enter it, as long as it has the capacity for them.  
 The first person to arrive at the sauna defines the gender allowed for the next persons to come in. If the sauna becomes empty it accepts any gender again.  
